@@ -1,5 +1,12 @@
 {
+  "name": "client",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
   "dependencies": {
-    "nuxt": "^2.2.0"
+    "gridsome": "^0.2.0"
   }
 }
